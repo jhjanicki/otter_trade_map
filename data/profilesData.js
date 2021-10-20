@@ -7,7 +7,8 @@ var profilesData =[
 "range":"",
 "status":"Vulnerable",
 "img":"./img/img1.jpg",
-"trade":"Pelt, pet (“otter cafes”)"
+"trade":"Pelt, pet (“otter cafes”)",
+"credit":"Carol Bennetto"
 },
 {
 "id": 2,
@@ -17,7 +18,8 @@ var profilesData =[
 "range":"",
 "status":"Near Threatened",
 "img":"./img/img2.jpg",
-"trade":"Pelt, meat and body parts"
+"trade":"Pelt, meat and body parts",
+"credit":"Carol Bennetto"
 },
 {
 "id": 3,
@@ -27,7 +29,8 @@ var profilesData =[
 "range":"",
 "status":"Endangered",
 "img":"./img/img3.jpg",
-"trade":"Pelt, meat and body parts (for medicinal use), pet (rare but detrimental for this species because of its status and range)"
+"trade":"Pelt, meat and body parts (for medicinal use), pet (rare but detrimental for this species because of its status and range)",
+"credit":"Carol Bennetto"
 },
 {
 "id": 4,
@@ -37,6 +40,7 @@ var profilesData =[
 "range":"",
 "status":"Vulnerable",
 "img":"./img/img4.jpg",
-"trade":"Pelt, meat and body parts,pet (second most traded as pet of the 4 Asian otter species)"
+"trade":"Pelt, meat and body parts,pet (second most traded as pet of the 4 Asian otter species)",
+"credit":"Katrina Fernandez"
 }
 ]

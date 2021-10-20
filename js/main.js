@@ -885,6 +885,7 @@
             $("#profileSpp").html(obj[0].name);
             $("#profileSpp2").html(obj[0].species);
             $("#profileImg").attr("src", obj[0].img);
+            $("#profileCredit").html(obj[0].credit);
             $("#profileStatus").html(obj[0].status);
             $("#profileTrade").html(obj[0].trade);
             d3.select("#profile").transition().duration(200).style("display", "inherit").style("opacity", 1);

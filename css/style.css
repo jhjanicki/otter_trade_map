@@ -61,6 +61,10 @@ a {
 	box-shadow: 0 1px 1px 0 rgba(66, 66, 66, 0.08), 0 1px 3px 1px rgba(66, 66, 66, 0.16);
 }
 
+.imageCredit{
+	font-size: 10px;
+}
+
 .active {
 	transform: translate3d(-280px, 0, 0);
 	transition: 0.3s ease-in-out;
