@@ -5,4 +5,4 @@ Interactive map showing information on confiscations and seizures of four of the
 # Data
 Otter seizure data provided by Wild Otters.
 
-<img width="1642" alt="Screen Shot 2023-06-29 at 10 02 54 AM" src="https://github.com/jhjanicki/otter_trade_map/assets/6565011/b294b542-6363-4cfc-9d6f-b981dda4c176">
+<img width="1641" alt="Screen Shot 2023-06-29 at 10 03 48 AM" src="https://github.com/jhjanicki/otter_trade_map/assets/6565011/67405d74-c1a1-49a7-bdb9-249c4f689c0f">
